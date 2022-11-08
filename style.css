@@ -1,0 +1,36 @@
+/* .btn-size{
+    margin-bottom: 10px;
+} */
+.nav-margin{
+    margin-top: 2em;
+    border-radius: 7.5px;
+}
+.nav-back{
+    background-color: rgb(242, 243, 244);
+}
+
+.get-hover{
+cursor: pointer;
+color: brown;
+margin-top: 8px;
+
+
+}
+
+.get-hover:hover{
+    background-color: goldenrod;
+    margin: 1px;
+}
+.btn-size{
+text-align: justify;
+}
+
+#text.color{
+    color: red
+}
+
+/* .mrs{
+    margin-left: 50px;
+} */
+
+
